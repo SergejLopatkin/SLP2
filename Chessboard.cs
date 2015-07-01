@@ -29,7 +29,7 @@ public class Chessboard : MonoBehaviour {
 		Camera.main.orthographicSize = m_iSize;
 
 		transform.position = new Vector3 (0.5f, 0.5f, 0); 
-						
+					// karu 	
 
 	}
 	//Color ChangeColorOfGameobject (Array,int,int,Color)
